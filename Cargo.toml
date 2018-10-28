@@ -1,0 +1,9 @@
+[package]
+name = "bb"
+version = "0.1.0"
+authors = ["boi"]
+edition = "2018"
+
+[dependencies]
+actix-web = "*"
+diesel = { version = "*", features = ["postgres"] }
