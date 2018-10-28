@@ -1,0 +1,3 @@
+[submodule "bb-fe"]
+	path = bb-fe
+	url = git@github.com:zxk7516/bb-fe.git
